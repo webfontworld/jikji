@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'JSunflower';
+    font-weight: 300;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/jikji/JSunflowerLight.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/jikji/JSunflowerLight.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/jikji/JSunflowerLight.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/jikji/JSunflowerLight.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/jikji/JSunflowerLight.ttf') format("truetype");
+    font-display: swap;
+}
+@font-face {
+    font-family: 'JSunflower';
+    font-weight: 500;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/jikji/JSunflowerMedium.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/jikji/JSunflowerMedium.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/jikji/JSunflowerMedium.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/jikji/JSunflowerMedium.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/jikji/JSunflowerMedium.ttf') format("truetype");
+    font-display: swap;
+}
