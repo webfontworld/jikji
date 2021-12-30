@@ -61,43 +61,43 @@
 </pre>
 
 
-# J해바라기(JSunflower)
+# J해바라기(JHaebaragi)
 
 <a href="https://wess.tistory.com" target="_blank">
-    <img src="https://webfontworld.github.io/jikji/JSunflower.jpg" alt="JSunflower" style="width:300px">
+    <img src="https://webfontworld.github.io/jikji/JHaebaragi.jpg" alt="JHaebaragi" style="width:300px">
 </a>
 <pre>
 @font-face {
-    font-family: 'JSunflower';
+    font-family: 'JHaebaragi';
     font-weight: 300;
     font-style: normal;
-    src: url('https://cdn.jsdelivr.net/gh/webfontworld/jikji/JSunflowerLight.eot');
-    src: url('https://cdn.jsdelivr.net/gh/webfontworld/jikji/JSunflowerLight.eot?#iefix') format('embedded-opentype'),
-         url('https://cdn.jsdelivr.net/gh/webfontworld/jikji/JSunflowerLight.woff2') format('woff2'),
-         url('https://cdn.jsdelivr.net/gh/webfontworld/jikji/JSunflowerLight.woff') format('woff'),
-         url('https://cdn.jsdelivr.net/gh/webfontworld/jikji/JSunflowerLight.ttf') format("truetype");
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/jikji/JHaebaragiLight.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/jikji/JHaebaragiLight.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/jikji/JHaebaragiLight.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/jikji/JHaebaragiLight.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/jikji/JHaebaragiLight.ttf') format("truetype");
     font-display: swap;
 }
 @font-face {
-    font-family: 'JSunflower';
+    font-family: 'JHaebaragi';
     font-weight: 500;
     font-style: normal;
-    src: url('https://cdn.jsdelivr.net/gh/webfontworld/jikji/JSunflowerMedium.eot');
-    src: url('https://cdn.jsdelivr.net/gh/webfontworld/jikji/JSunflowerMedium.eot?#iefix') format('embedded-opentype'),
-         url('https://cdn.jsdelivr.net/gh/webfontworld/jikji/JSunflowerMedium.woff2') format('woff2'),
-         url('https://cdn.jsdelivr.net/gh/webfontworld/jikji/JSunflowerMedium.woff') format('woff'),
-         url('https://cdn.jsdelivr.net/gh/webfontworld/jikji/JSunflowerMedium.ttf') format("truetype");
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/jikji/JHaebaragiMedium.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/jikji/JHaebaragiMedium.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/jikji/JHaebaragiMedium.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/jikji/JHaebaragiMedium.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/jikji/JHaebaragiMedium.ttf') format("truetype");
     font-display: swap;
 }
 @font-face {
-    font-family: 'JSunflower';
+    font-family: 'JHaebaragi';
     font-weight: 700;
     font-style: normal;
-    src: url('https://cdn.jsdelivr.net/gh/webfontworld/jikji/JSunflowerBold.eot');
-    src: url('https://cdn.jsdelivr.net/gh/webfontworld/jikji/JSunflowerBold.eot?#iefix') format('embedded-opentype'),
-         url('https://cdn.jsdelivr.net/gh/webfontworld/jikji/JSunflowerBold.woff2') format('woff2'),
-         url('https://cdn.jsdelivr.net/gh/webfontworld/jikji/JSunflowerBold.woff') format('woff'),
-         url('https://cdn.jsdelivr.net/gh/webfontworld/jikji/JSunflowerBold.ttf') format("truetype");
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/jikji/JHaebaragiBold.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/jikji/JHaebaragiBold.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/jikji/JHaebaragiBold.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/jikji/JHaebaragiBold.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/jikji/JHaebaragiBold.ttf') format("truetype");
     font-display: swap;
 }
 </pre>
