@@ -89,6 +89,17 @@
          url('https://cdn.jsdelivr.net/gh/webfontworld/jikji/JSunflowerMedium.ttf') format("truetype");
     font-display: swap;
 }
+@font-face {
+    font-family: 'JSunflower';
+    font-weight: 700;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/jikji/JSunflowerBold.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/jikji/JSunflowerBold.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/jikji/JSunflowerBold.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/jikji/JSunflowerBold.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/jikji/JSunflowerBold.ttf') format("truetype");
+    font-display: swap;
+}
 </pre>
 
 # J신영복(JShinYeongBok)
