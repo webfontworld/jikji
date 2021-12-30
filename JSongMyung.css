@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'JSongMyung';
+    font-weight: normal;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/jikji/JSongMyung.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/jikji/JSongMyung.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/jikji/JSongMyung.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/jikji/JSongMyung.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/jikji/JSongMyung.ttf') format("truetype");
+    font-display: swap;
+}
